@@ -3,7 +3,7 @@ Support for Multiple IR Receivers for Arduino IRremote v3.4.0
 
 This project will allow multiple IR Receivers to be connected
 
-Concept was taken from Neco777. PLease see the website
+Concept was taken from Neco777. Please see the website
 https://github.com/Arduino-IRremote/Arduino-IRremote/issues/20
 
 Code was modified from
